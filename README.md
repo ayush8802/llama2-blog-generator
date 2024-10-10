@@ -32,21 +32,20 @@
    cd llama2-blog-generator
 
 2. **Create a virtual environment (optional but recommended):**
-
-```bash
-python -m venv .venv
-source .venv/bin/activate  # On Windows use .venv\Scripts\activate
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows use .venv\Scripts\activate
 
 3. **Install dependencies:**
 
-```bash
-pip install -r requirements.txt
-Download the LLaMA model: Place the llama-2-7b-chat.ggmlv3.q8_0.bin file inside the model directory.
+   ```bash
+   pip install -r requirements.txt
+   Download the LLaMA model: Place the llama-2-7b-chat.ggmlv3.q8_0.bin file inside the model directory.
 
 4. **Run the Streamlit app:**
 
-```bash
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 
 ### Usage
