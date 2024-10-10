@@ -13,7 +13,7 @@
 
 ## Demo
 
-![Screenshot of the App](https://example.com/screenshot.png)  <!-- Replace with actual screenshot URL -->
+![Screenshot of the App](https://github.com/ayush8802/llama2-blog-generator/blob/main/img_1)  <!-- Replace with actual screenshot URL -->
 
 ## Installation
 
